@@ -1,0 +1,262 @@
+/Users/tom/Repository/CS550/venv/bin/python /Users/tom/Repository/CS550/A02/driver02.py
+Starting Trial #1
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 42 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 1 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 6 seconds
+Finished Trial #1
+Starting Trial #2
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 39 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 17 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 4 seconds
+Finished Trial #2
+Starting Trial #3
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 7 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 25 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #3
+Starting Trial #4
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 58 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 21 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 7 seconds
+Finished Trial #4
+Starting Trial #5
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 5 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 12 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #5
+Starting Trial #6
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 10 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 6 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #6
+Starting Trial #7
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 66 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 7 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 10 seconds
+Finished Trial #7
+Starting Trial #8
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 3 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 3 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #8
+Starting Trial #9
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 36 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 18 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 5 seconds
+Finished Trial #9
+Starting Trial #10
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 65 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 10 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 12 seconds
+Finished Trial #10
+Starting Trial #11
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 1 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 22 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #11
+Starting Trial #12
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 26 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 2 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 2 seconds
+Finished Trial #12
+Starting Trial #13
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 14 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 11 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #13
+Starting Trial #14
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 42 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 9 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 5 seconds
+Finished Trial #14
+Starting Trial #15
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 59 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 18 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 9 seconds
+Finished Trial #15
+Starting Trial #16
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 2 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 9 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #16
+Starting Trial #17
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 4 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 0 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #17
+Starting Trial #18
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 5 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 5 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #18
+Starting Trial #19
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 65 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 4 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 13 seconds
+Finished Trial #19
+Starting Trial #20
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 8 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 22 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #20
+Starting Trial #21
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 43 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 9 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 4 seconds
+Finished Trial #21
+Starting Trial #22
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 2 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 0 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #22
+Starting Trial #23
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 4 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 20 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #23
+Starting Trial #24
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 10 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 14 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 1 seconds
+Finished Trial #24
+Starting Trial #25
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 54 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 2 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 6 seconds
+Finished Trial #25
+Starting Trial #26
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 18 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 5 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 1 seconds
+Finished Trial #26
+Starting Trial #27
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 30 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 20 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 1 seconds
+Finished Trial #27
+Starting Trial #28
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 18 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 20 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 2 seconds
+Finished Trial #28
+Starting Trial #29
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 8 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 6 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 1 seconds
+Finished Trial #29
+Starting Trial #30
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 10 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 7 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 0 seconds
+Finished Trial #30
+Starting Trial #31
+Solving puzzle via BreadthFirst
+Solved puzzle via BreadthFirst in 17 seconds
+Solving puzzle via DepthFirst
+Solved puzzle via DepthFirst in 12 seconds
+Solving puzzle via Manhattan
+Solved puzzle via Manhattan in 2 seconds
+Finished Trial #31
+
+
+==================================================
+
+
+
+Method / Result    	| Length of Plan (Mean/STDEV) 	| Number of Nodes (Mean/STDEV) 	| Elapsed Time (Mean/STDEV)
+-------------------	| ----------------------------	| -----------------------------	| --------------------------
+Breadth First      	| 21.839 / 3.067              	| 137521.871 / 120529.546      	| 25.393 / 22.300
+Depth First        	| 58790.548 / 36639.228       	| 63169.935 / 41391.069        	| 11.336 / 7.590
+Manhattan          	| 21.839 / 3.067              	| 9765.935 / 11020.610         	| 3.452 / 3.863
+
+Process finished with exit code 0

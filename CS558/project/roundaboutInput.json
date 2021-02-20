@@ -1,0 +1,19 @@
+{
+  "random": {
+    "distribution": "uniform",
+    "loc": 250,
+    "scale": 600,
+
+    "left": 200,
+    "mode": 300,
+    "right": 600,
+
+    "low": 250,
+    "high": 600
+  },
+  "static": {
+    "entry_flow": 500
+  },
+  "initial_level": 200,
+  "number_of_runs": 100
+}
